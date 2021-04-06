@@ -1,1 +1,1 @@
-worker: python3 hacker-role/hackathon-role-bot.py
+worker: python3 hackathon-role-bot.py
